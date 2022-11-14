@@ -1,0 +1,71 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.nav-link a{
+    display: flex;
+    justify-content: space-between;
+}
+
+.validation{
+    display: flex;
+    justify-content: center;
+}
+
+.btndanger{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+    background-color: gainsboro;
+   
+}
+
+
+
+.btn btn-dark mt-2{
+background-color: red;
+
+}
+
+img{
+    width: 100px;
+    border-radius: 15px;
+}
+
+.totalpanier{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.col p{
+display: flex;
+justify-content: baseline;
+}
+
+.total{
+ display: flex;
+ justify-content: center;
+ margin-top: 50px;
+}
+
+.frais{
+   
+ display: flex;
+ justify-content: center;
+}
+
+.totalachats{
+  display: flex;
+  justify-content: center;
+  
+}
